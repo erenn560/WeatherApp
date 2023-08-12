@@ -1,4 +1,4 @@
-# HavaDurumuUygulamasi
+# WeatherApp
 
 - Hava durumu
 - Maksimum Sıcaklık
